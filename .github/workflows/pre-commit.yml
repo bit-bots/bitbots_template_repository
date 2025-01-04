@@ -13,4 +13,4 @@ jobs:
       - uses: actions/setup-python@v4
       - name: Install cppcheck
         run: sudo apt install cppcheck -y
-      - uses: pre-commit/action@v3.0.0
+      - uses: pre-commit/action@v3.0.1
