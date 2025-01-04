@@ -104,8 +104,6 @@ qtcreator-*
 # Emacs
 .#*
 
-# Catkin custom files
-CATKIN_IGNORE
 ### Python template
 # Byte-compiled / optimized / DLL files
 __pycache__/
